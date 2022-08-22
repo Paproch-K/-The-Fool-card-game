@@ -41,7 +41,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](C:\Users\Selvi\Desktop\Python\screenshot1.png)
+![Example screenshot](C:\Users\Selvi\Desktop\Python\screenshot1.png?raw=true)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
