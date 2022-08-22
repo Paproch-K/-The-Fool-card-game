@@ -1,13 +1,11 @@
 # 'Fool' card game
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> This project presents a card game called 'The Fool'.
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
@@ -17,17 +15,22 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The aim of the game is to get rid of all the cards in your hand. The rules are described in detail in the file 'Game rules'. At the moment, the game is operated only via the console and does not have a front-end setting.
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+Program was created using Python 3.8 with usage of SQL databases.
+
+Imported libraries:
+- random (imported shuffle)
+- sys (imported exit)
+- sqlite3
+- pandas (imported read_sql_query)
+- numpy (imported ceil)
+- 
+Other libraries planned for future use:
+-time (imported sleep)
+-mysql.connector
 
 
 ## Features
@@ -38,14 +41,8 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](C:\Users\Selvi\Desktop\Python\screenshot1.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
-
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Usage
@@ -56,7 +53,7 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_ . Next goal is to create graphic design for the game.
 
 
 ## Room for Improvement
