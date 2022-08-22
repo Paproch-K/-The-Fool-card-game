@@ -27,8 +27,8 @@ Imported libraries:
 - numpy (imported ceil)
 
 Other libraries planned for future use:
--time (imported sleep)
--mysql.connector
+- time (imported sleep)
+- mysql.connector
 
 
 ## Screenshots
