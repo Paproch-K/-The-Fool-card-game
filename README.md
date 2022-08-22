@@ -27,17 +27,17 @@ Imported libraries:
 - sqlite3
 - pandas (imported read_sql_query)
 - numpy (imported ceil)
-- 
+
 Other libraries planned for future use:
 -time (imported sleep)
 -mysql.connector
 
 
-## Features
+<!--## Features
 List the ready features here:
 - Awesome feature 1
 - Awesome feature 2
-- Awesome feature 3
+- Awesome feature 3-->
 
 
 ## Screenshots
