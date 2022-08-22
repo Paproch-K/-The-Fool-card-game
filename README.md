@@ -54,4 +54,5 @@ This project was inspired by my friends from college with whom we came up with t
 
 
 ## Contact
-Created by [@Paproch-K](kubacki.pat@gmail.com) - feel free to contact me!
+Created by Paproch-K - feel free to contact me!
+My e-mail: kubacki.pat@gmail.com
