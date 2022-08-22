@@ -4,7 +4,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-<!--* [Features](#features)-->
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
@@ -30,13 +29,6 @@ Imported libraries:
 Other libraries planned for future use:
 -time (imported sleep)
 -mysql.connector
-
-
-<!--## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3-->
 
 
 ## Screenshots
