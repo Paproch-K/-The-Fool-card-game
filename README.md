@@ -4,9 +4,8 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
+<!--* [Features](#features)-->
 * [Screenshots](#screenshots)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -45,42 +44,22 @@ List the ready features here:
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
 ## Project Status
-Project is: _in progress_ . Next goal is to create graphic design for the game.
+Project is: _in progress_ .
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+The next goal is to create graphic design for the game and hosting a server for allowing players to play on their own machines and in real-time. There are plans for reducing long lines of code while maintaining the transparency of the project.
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Reduction of unnecessary functions in the code
+- Creating graphic design for the game
+- Server support and hosting game for players
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+This project was inspired by my friends from college with whom we came up with this game, developed the rules and modified them through college.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@Paproch-K](kubacki.pat@gmail.com) - feel free to contact me!
