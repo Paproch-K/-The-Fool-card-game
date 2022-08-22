@@ -41,7 +41,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot]()
+![Example screenshot](.\screenshot1.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
