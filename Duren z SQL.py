@@ -11,6 +11,7 @@ from numpy import ceil
 #                               database='xxxxxxx')
 # cnx.close()
 
+
 con = sqlite3.connect("duren_baza.db", timeout=10)
 con.row_factory = sqlite3.Row
 cur = con.cursor()
